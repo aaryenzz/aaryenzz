@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **Coffee is my only dependency.**
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/aaryenzz.png" alt="Your Image Badge" /> 
+<p align="center"> <img src="https://tryhackme-badges.s3.amazonaws.com/aaryenzz.png" alt="TryHackMe Badge"/> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
