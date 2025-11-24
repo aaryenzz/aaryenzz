@@ -68,6 +68,8 @@
 <p>
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/godotengine/godotengine-icon.svg" width="40"/>
+
 </p>
 
 ---
