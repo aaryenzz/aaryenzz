@@ -1,4 +1,4 @@
-<img src="https://tryhackme-badges.s3.amazonaws.com/aaryenzz.png" alt="Your Image Badge" /> //Tryhackme
+<img src="https://tryhackme-badges.s3.amazonaws.com/aaryenzz.png" alt="Your Image Badge" /> 
 
 
 <h1 align="center">Hey! 👋, I'm Aaryan Jayachandran</h1>
