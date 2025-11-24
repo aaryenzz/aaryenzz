@@ -1,5 +1,3 @@
-<img src="https://tryhackme-badges.s3.amazonaws.com/aaryenzz.png" alt="Your Image Badge" /> 
-
 
 <h1 align="center">Hey! 👋, I'm Aaryan Jayachandran</h1>
 <h3 align="center">A CyberSecurity Enthusiast exploring the offensive lane. Training in ethical hacking, pwning CTFs, and stepping into red teaming.</h3>
@@ -19,6 +17,8 @@
 - 📫 How to reach me **aaryanjayachandran.personal@gmail.com**
 
 - ⚡ Fun fact **Coffee is my only dependency.**
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/aaryenzz.png" alt="Your Image Badge" /> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
