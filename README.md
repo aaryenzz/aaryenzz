@@ -2,9 +2,7 @@
 <h1 align="center">Hey! 👋, I'm Aaryan Jayachandran</h1>
 <h3 align="center">A CyberSecurity Enthusiast exploring the offensive lane. Training in ethical hacking, pwning CTFs, and stepping into red teaming.</h3>
 
-<p align="left"> <a href="https://www.buymeacoffee.com/aaryenzz"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"/> </a> </p>
-
-<p align="center"> <img src="https://tryhackme-badges.s3.amazonaws.com/aaryenzz.png" alt="TryHackMe Badge" /> </p>
+<p align="left"> <a href="https://www.buymeacoffee.com/aaryenzz"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"/> </a> </p> <p align="center"> <img src="https://tryhackme-badges.s3.amazonaws.com/aaryenzz.png" alt="TryHackMe Badge" /> </p>
 
 - 🔭 I’m currently working on **Foundational Skills in CyberSecurity**
 
