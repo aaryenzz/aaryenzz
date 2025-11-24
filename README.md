@@ -28,9 +28,7 @@
 <a href="https://codesandbox.com/aaryenzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="aaryenzz" height="30" width="40" /></a>
 </p>
 
-<p align ="center">
-## 🧰 Tech Stack
-</p>
+ 🧰 Tech Stack
 ---
 
 ### 🧠 AI / Machine Learning
