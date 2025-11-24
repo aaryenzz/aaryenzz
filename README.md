@@ -135,9 +135,6 @@
   <!-- Azure IoT Hub -->
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40"/>
 
-  <!-- Home Assistant -->
-  <img src="https://www.vectorlogo.zone/logos/home-assistant/home-assistant-icon.svg" width="40"/>
-
 ---
 
 
