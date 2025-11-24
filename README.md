@@ -1,6 +1,9 @@
 <h1 align="center">Hey! 👋, I'm Aaryan Jayachandran</h1>
 <h3 align="center">A CyberSecurity Enthusiast exploring the offensive lane. Training in ethical hacking, pwning CTFs, and stepping into red teaming.</h3>
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/aaryenzz.png" alt="Your Image Badge" />
+
+
 - 🔭 I’m currently working on **Foundational Skills in CyberSecurity**
 
 - 🌱 I’m currently learning **Linux privilege escalation, networking fundamentals, web app security, and scripting (Python, Bash)**
