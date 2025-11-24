@@ -2,7 +2,7 @@
 <h1 align="center">Hey! 👋, I'm Aaryan Jayachandran</h1>
 <h3 align="center">A CyberSecurity Enthusiast exploring the offensive lane. Training in ethical hacking, pwning CTFs, and stepping into red teaming.</h3>
 
-<p align="center"> <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5035472" style='border:none;'></iframe> </p>
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5035472" style='border:none;'></iframe>
 
 
 - 🔭 I’m currently working on **Foundational Skills in CyberSecurity**
