@@ -18,6 +18,8 @@
 
 - ⚡ Fun fact **Coffee is my only dependency.**
 
+### ☕ Support
+
 <p align="center"> <a href="https://www.buymeacoffee.com/aaryenzz"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"/> </a> </p> 
 
 
@@ -116,5 +118,26 @@
 
 ---
 
-### ☕ Support
+### 🔌 IoT Platforms
+<p>
+  <!-- Arduino -->
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/>
+
+  <!-- Raspberry Pi -->
+  <img src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" width="40"/>
+
+  <!-- AWS IoT -->
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40"/>
+
+  <!-- Google Cloud IoT -->
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/>
+
+  <!-- Azure IoT Hub -->
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40"/>
+
+  <!-- Home Assistant -->
+  <img src="https://www.vectorlogo.zone/logos/home-assistant/home-assistant-icon.svg" width="40"/>
+
+---
+
 
